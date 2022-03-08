@@ -1,0 +1,11 @@
+body {
+    background-color:#D5D8DC;
+    height: 100%;
+}
+
+table {
+    width:800; 
+    max-height:900;
+    border: center; 
+    padding:25px
+}
